@@ -1,0 +1,8 @@
+[package]
+name = "puzzle3"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.37.0"
+
+[dependencies]
+noir_string_search = { git = "https://github.com/noir-lang/noir_string_search.git", tag = "v0.3.0" }
